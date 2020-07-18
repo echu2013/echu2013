@@ -10,4 +10,4 @@ I am Edgardo, also known as Eddy, from Buenos Aires, Argentina.
 - ⌨ I’m developing an enterprise focused OS based on Debian/Ubuntu.
 - 👯 I’m looking to collaborate on OpenSource projects. iOS, Android and React Native library.
 - 💬 Ask me about Linux, Networking and Arduino.
-- 📫 How to reach me: edgardorodriguez50(at)gmail.com
+- 📫 How to reach me: @Edgardo71082895
